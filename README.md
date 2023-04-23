@@ -1,5 +1,5 @@
 # scrKillPlayer
-scrKillplayer (RANDOM DEATHSOUND VER)
+scrKillplayer (RANDOM DEATHSOUND VER) - just for YoYoYo Engine (GMS)
 ## informations
 script: YoYoYo Engine (GMS1) Sctipt - scrKillplayer (RANDOM DEATHSOUND VER);
 
@@ -10,3 +10,5 @@ Author: TheMagicFlute;
 feature: kills the player and play the random death sound;
 
 usage: scrkillPlayer();
+
+license: MIT License ;
