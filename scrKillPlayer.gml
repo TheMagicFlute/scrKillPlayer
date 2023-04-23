@@ -10,6 +10,8 @@ feature: kills the player and play the random death sound;
 
 usage: scrkillPlayer();
 
+license: MIT License ;
+
 */
 
 //requirements: 3 sounds resource: musDeath1, musDeath2, musDeath3!
